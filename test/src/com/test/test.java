@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	System.out.println("bbbb");
 	System.out.println("cccc");
 	System.out.println("dddd");
+	System.out.println("EEEE");
 }
 }
